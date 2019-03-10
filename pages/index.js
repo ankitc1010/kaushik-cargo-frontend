@@ -79,6 +79,7 @@ const Home = () => (
     </Container>
 
     <style jsx>{`
+    
       .hero {
         width: 100%;
         color: #333;

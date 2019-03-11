@@ -16,9 +16,6 @@ import {
 import Head from "../components/head";
 import Nav from "../components/nav";
 
-import SignUp from "../components/common/SignUp";
-import SignIn from "../components/common/SignIn";
-
 const ButtonWrapper = styled.div`
   text-align: center;
   > button {
@@ -30,8 +27,27 @@ const Home = () => (
   <div>
     <Head title="Home" />
 
-    <SignUp />
-    <SignIn />
+    <Container>
+      <Grid>
+        <Grid.Row columns={1}>
+          <Grid.Column>
+            <h1 className="title">Choose Service</h1>
+          </Grid.Column>
+        </Grid.Row>
+        <Grid.Row columns={2}>
+          <Grid.Column>
+            <ButtonWrapper>
+              <Button size="huge">Service 1</Button>
+            </ButtonWrapper>
+          </Grid.Column>
+          <Grid.Column>
+            <ButtonWrapper>
+              <Button size="huge">Service 2</Button>
+            </ButtonWrapper>
+          </Grid.Column>
+        </Grid.Row>
+      </Grid>
+    </Container>
 
     <style jsx>{`
       .hero {

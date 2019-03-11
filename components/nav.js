@@ -1,59 +1,38 @@
-import React from 'react'
-import Link from 'next/link'
+import React from "react";
+import Link from "next/link";
+import { Segment, Menu } from "semantic-ui-react";
+import User from "./common/User";
 
 const links = [
-  { href: 'https://github.com/segmentio/create-next-app', label: 'Github' }
+  { href: "https://github.com/segmentio/create-next-app", label: "Github" }
 ].map(link => {
-  link.key = `nav-link-${link.href}-${link.label}`
-  return link
-})
+  link.key = `nav-link-${link.href}-${link.label}`;
+  return link;
+});
 
 const Nav = () => (
   <nav>
-    <ul>
-      <li>
-        <Link prefetch href="/">
-          <a>Home</a>
-        </Link>
-      </li>
-      <ul>
-        {links.map(({ key, href, label }) => (
-          <li key={key}>
-            <Link href={href}>
-              <a>{label}</a>
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </ul>
-
-    <style jsx>{`
-      :global(body) {
-        margin: 0;
-        font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir,
-          Helvetica, sans-serif;
-      }
-      nav {
-        text-align: center;
-      }
-      ul {
-        display: flex;
-        justify-content: space-between;
-      }
-      nav > ul {
-        padding: 4px 16px;
-      }
-      li {
-        display: flex;
-        padding: 6px 8px;
-      }
-      a {
-        color: #067df7;
-        text-decoration: none;
-        font-size: 13px;
-      }
-    `}</style>
+    <Segment inverted>
+      <Menu inverted secondary>
+        <Menu.Item name="home" active={true} />
+        <Menu.Item name="Contact" />
+        <Menu.Item name="About" />
+        <User>
+          {({ data }) => {
+            if (data) {
+              return (
+                <Link href="/select">
+                  <Menu.Item name="Select Service" />
+                </Link>
+              );
+            } else {
+              return <Menu.Item name="Not Logged In" />;
+            }
+          }}
+        </User>
+      </Menu>
+    </Segment>
   </nav>
-)
+);
 
-export default Nav
+export default Nav;

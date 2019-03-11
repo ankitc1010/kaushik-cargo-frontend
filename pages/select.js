@@ -1,79 +1,19 @@
 import React from "react";
-import Link from "next/link";
-import styled from "styled-components";
-import {
-  Container,
-  Divider,
-  Grid,
-  Header,
-  Image,
-  Input,
-  Button,
-  Menu,
-  Segment
-} from "semantic-ui-react";
+import Select from "../components/Select";
+import User from "../components/common/User";
 
-import Head from "../components/head";
-import Nav from "../components/nav";
-
-const ButtonWrapper = styled.div`
-  text-align: center;
-  > button {
-    min-width: 285px;
-  }
-`;
-
-const Home = () => (
-  <div>
-    <Head title="Home" />
-    <Segment inverted>
-      <Menu inverted secondary>
-        <Menu.Item name="home" active={true} />
-        <Menu.Item name="Contact" />
-        <Menu.Item name="About" />
-      </Menu>
-    </Segment>
-    <Container>
-      <Grid>
-        <Grid.Row columns={1}>
-          <Grid.Column>
-            <h1 className="title">Choose Service</h1>
-          </Grid.Column>
-        </Grid.Row>
-        <Grid.Row columns={2}>
-          <Grid.Column>
-            <ButtonWrapper>
-              <Button primary size="huge">
-                Import
-              </Button>
-            </ButtonWrapper>
-          </Grid.Column>
-          <Grid.Column>
-            <ButtonWrapper>
-              <Button primary size="huge">
-                Export{" "}
-              </Button>
-            </ButtonWrapper>
-          </Grid.Column>
-        </Grid.Row>
-      </Grid>
-    </Container>
-
-    <style jsx>{`
-      .hero {
-        width: 100%;
-        color: #333;
+const SelectPage = () => (
+  <User>
+    {({ data, loading, error }) => {
+      if (loading) {
+        return <div>Loading</div>;
       }
-      .title {
-        margin: 0;
-        width: 100%;
-        padding-top: 80px;
-        line-height: 1.15;
-        font-size: 48px;
-        text-align: center;
+      if (data) {
+        return <Select />;
       }
-    `}</style>
-  </div>
+      return <div>Not Authorised</div>;
+    }}
+  </User>
 );
 
-export default Home;
+export default SelectPage;

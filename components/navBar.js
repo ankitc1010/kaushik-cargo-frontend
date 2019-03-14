@@ -14,7 +14,7 @@ export default class Navbar extends Component {
             <div>
 
 
-                <Menu inverted fixed="top" size="massive" className="size">
+                <Menu inverted pointing  fixed="top" size="massive" className="size">
                     <Menu.Item
                         name='COMPANY NAME'
                         position="left"
@@ -50,7 +50,6 @@ export default class Navbar extends Component {
                     .size{
                         position: fixed;
                         top:0;
-                        height: 15% !important;
                     }
                    
                 

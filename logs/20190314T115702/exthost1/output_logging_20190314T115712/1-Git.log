@@ -1,0 +1,2131 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/shank/myProjects/kaushik-cargo-frontend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/navBar.js
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/cardCollection.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/navBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/bg.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/navBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/bg.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/navBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :pages/home.js
+> git check-ignore -z --stdin
+> git show :components/navBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/cardCollection.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

@@ -13,6 +13,15 @@ class bg extends Component {
                 
                 <h1 className="bannerDesign" style={{fontSize:40}}>We are the best choice.
                     </h1>
+
+                    <ul>
+                        <li>Sea Cargo</li>
+                        <li> Sea Freight</li>
+                        <li>Air Freight</li>
+                        <li>Project Cargo</li>
+                        <li>CFS</li>
+                        <li>Coastal Shipping</li>
+                    </ul>
                 
                 </div>
                 <style jsx>
@@ -26,8 +35,9 @@ class bg extends Component {
 
                 }
                 li{
-                    font-size: 40px;
+                    font-size: 25px;
                     margin: 15px;
+                    color:black;
                 }
                 .banner{
                     position: absolute;

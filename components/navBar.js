@@ -1,56 +1,101 @@
-import React, { Component } from 'react'
-import { Input, Menu, Image } from 'semantic-ui-react'
+import React, { Component, createRef } from 'react'
+import { Input, Menu, Image, Grid, Sticky } from 'semantic-ui-react'
+import styled from 'styled-components'
 import Link from 'next/link';
+import { relative } from 'path';
+
+
+const Wrap = styled.span`
+margin-top:25px;
+float:right;
+height:40px;
+border-radius:15px;
+
+
+&:hover{
+    background: #1e90ff;
+}
+
+`;
 
 export default class Navbar extends Component {
-    state = { activeItem: 'home' }
+    constructor(props) {
+        super(props);
 
-    handleItemClick = (e, { name }) => this.setState({ activeItem: name })
+    }
+    state = { activeItem: this.props.currentPage }
+
+    contextRef = createRef()
+
 
     render() {
         const { activeItem } = this.state
 
         return (
-            <div>
+            <div >
+
+                
+                <Menu pointing size="massive" className="size" stackable>
+                
 
 
-                <Menu inverted pointing  fixed="top" size="massive" className="size">
-                    <Menu.Item
-                        name='COMPANY NAME'
-                        position="left"
-                        style={{margin: 10}} />
-                    <Menu.Item
-                        name='home'
-                        active={activeItem === 'home'}
-                        onClick={this.handleItemClick}
-                        position="right"
-                        style={{margin: 10}}
-                    />
-                    <Link href="/contact">
+                    <Image style={{ 'font-size': 50 }} avatar src='http://www.transitionsta.org/wp-content/uploads/2016/12/twitter-black-round-icon.png' className='logo' />
+
+                    <Link href='/home'>
+                    <Wrap>
+
                         <Menu.Item
-                            name='contact us'
-                            active={activeItem === 'contact us'}
-                            style={{margin: 10}}
+                            name='HOME'
+                            active={activeItem === 'home'}
+                            position='right'
                         />
+                    </Wrap>
+
                     </Link>
 
-                    <Menu.Item
-                        name='about us'
-                        active={activeItem === 'about us'}
-                        onClick={this.handleItemClick}
-                        style={{margin: 10}}
-                    />
+                    <Link href="/contact">
+                    <Wrap>
+                        <Menu.Item
+                            name='CONTACT US'
+                            active={activeItem === 'contact us'}
+                            position='right'
 
+                        />
+                     </Wrap>
+                    </Link>
+                    <Link href='/aboutProfile'>
+                    <Wrap>
+                        <Menu.Item
+                            name='ABOUT US'
+                            active={activeItem === 'about us'}  
+                            position='right'
 
+                            />
+                   </Wrap>
+
+                    </Link>
                 </Menu>
+
+
+
 
 
                 <style jsx>{
                     `
+                    .logo{
+                        height:100px;
+                        width:160px;
+                        margin:10px;
+                    }
+                  
+
                     .size{
-                        position: fixed;
+                        position: -webkit-sticky;
+                        position: sticky;
                         top:0;
                     }
+                
+                
                    
                 
                 `

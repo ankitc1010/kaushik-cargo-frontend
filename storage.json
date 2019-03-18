@@ -4,7 +4,9 @@
         "workspaces2": [
             "file:///home/shank/myProjects/kaushik-cargo-frontend"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/shank/myProjects/todolist/src/mainPage.jsx"
+        ]
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
@@ -27,5 +29,6 @@
                 "height": 741
             }
         }
-    }
+    },
+    "pickerWorkingDir": "/home/shank/myProjects/todolist/src"
 }

@@ -1,0 +1,182 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/shank/myProjects/kaushik-cargo-frontend
+> git status -z -u
+> git show :components/navBar.js
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse shashank
+> git rev-parse --symbolic-full-name shashank@{u}
+fatal: no upstream configured for branch 'shashank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :components/navBar.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :package.json
+> git show :pages/_app.js
+> git show :pages/_document.js
+> git show :.babelrc
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git check-ignore -z --stdin
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/shank/myProjects
+> git status -z -u
+> git show :todolist/src/mainPage.jsx
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse Shank
+> git rev-parse --symbolic-full-name Shank@{u}
+fatal: no upstream configured for branch 'Shank'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/home.js
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/navBar.js
+> git show :pages/home.js
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/head.js
+> git check-ignore -z --stdin
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/cardCollection.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/bg.js
+> git check-ignore -z --stdin
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :pages/home.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git check-ignore -z --stdin
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git check-ignore -z --stdin
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :pages/home.js
+> git show :components/footer.js
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/cardCollection.js
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :components/cardCollection.js
+> git check-ignore -z --stdin
+> git show :components/homePageCards.js
+> git ls-files --stage -- components/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/homePageCards.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/homePageCards.js
+> git ls-files --stage -- components/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/contactForms.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :pages/contact.js
+> git ls-files --stage -- pages/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/homePageCards.js
+> git ls-files --stage -- components/
+> git show :components/contactPageCards.js
+> git ls-files --stage -- components/
+> git show :components/homePageCards.js
+> git ls-files --stage -- components/

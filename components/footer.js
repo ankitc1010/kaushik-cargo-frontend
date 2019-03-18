@@ -5,13 +5,15 @@ class Footer extends Component {
     state = {}
     render() {
         return (
-            <div className="parent">
                 <div className="footer">
                     <Grid columns={3} divided stackable className="stickDown">
                         <Grid.Column>
                             <p style={{ fontSize: 20 }}> GET IN TOUCH</p>
-                            <Icon className="icon" name="facebook square" inverted color="blue" size="big"></Icon>
-                            <Icon name="google" inverted color="red" size="big"></Icon>
+                            <Icon className="icon" name="facebook square"  size="big"></Icon>
+                            <Icon name="google" size="big"></Icon>
+                            <Icon name="linkedin square" size="big"></Icon>
+                            <Icon name="youtube square" size="big"></Icon>
+
                         </Grid.Column>
                         <Grid.Column>
                             <p style={{ fontSize: 20 }}>GROUP COMPANIES</p>
@@ -22,13 +24,12 @@ class Footer extends Component {
                             <p style={{ fontSize: 20 }}>MEMBERS</p>
                         </Grid.Column>
                     </Grid>
-                </div>
 
                 <style jsx>
                     {`
                     
                 p{
-                    color:#fff;
+                    color:#000;
                     padding: 6px;
                     text-align: center  ;
                 }
@@ -36,12 +37,12 @@ class Footer extends Component {
                     bottom:0;
                 }
                 .footer{
-                    background-color: black  ;
+                    background-color: #eeeee0  ;
                     width: 100%;
                     height: 15%;
                 }
                 .icon{
-                    float: right;
+                    margin-left:100px;
                 }
                 
                 `

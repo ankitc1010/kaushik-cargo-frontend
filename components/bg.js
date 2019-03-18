@@ -6,7 +6,7 @@ class bg extends Component {
     render() {
         return (
             <div className="bgDiv">
-                <img src="https://guide4info.com/site/wp-content/uploads/2016/05/business-banner.png" className="mybg">
+                <img src="https://png.pngtree.com/thumb_back/fw800/back_pic/04/55/00/875863a90a7de9d.jpg" className="mybg">
                 </img>
                 <div className="banner">
                 <h1 className="bannerDesign" style={{fontSize:60}}>GROW YOUR BUSINESS</h1>
@@ -20,6 +20,8 @@ class bg extends Component {
                 .bgDiv{
                     margin-bottom: 40px;
                     position: relative;
+                    margin-top: 0;
+
 
 
                 }

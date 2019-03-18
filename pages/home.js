@@ -4,7 +4,9 @@ import Head from '../components/head';
 import Navbar from "../components/navBar";
 import Bg from '../components/bg';
 import Footer from '../components/footer';
-import Cards from '../components/cardCollection';
+import Cards from '../components/homePageCards';
+import Header from '../components/header';
+
 
 
 
@@ -12,7 +14,8 @@ import Cards from '../components/cardCollection';
 const HomePage = () => (
     <div className="myDiv">
         <Head title="Home Page"></Head>
-        <Navbar />
+        <Header/>
+        <Navbar currentPage={'home'}/>
         <Bg />
         <Cards />
         <Footer />

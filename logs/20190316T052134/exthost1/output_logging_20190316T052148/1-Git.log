@@ -4768,3 +4768,88 @@ fatal: no upstream configured for branch 'shashank'
 > git show :components/header.js
 > git ls-files --stage -- components/
 > git show :components/navBar.js
+> git show :components/bg.js
+> git show :components/contactForms.js
+> git show :components/navBar.js
+> git show :components/contactPageCards.js
+> git show :components/navBar.js
+> git show :components/header.js
+> git show :pages/aboutProfile.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/footer.js
+> git show :pages/aboutProfile.js
+> git show :pages/home.js
+> git show :pages/aboutProfile.js
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/sideBar.js
+> git show :pages/aboutProfile.js
+> git show :components/footer.js
+> git show :components/navBar.js
+> git show :node_modules/semantic-ui-css/semantic.min.css
+> git ls-files --stage -- node_modules/semantic-ui-css/
+> git show :components/navBar.js
+> git check-ignore -z --stdin
+> git show :node_modules/semantic-ui-css/semantic.css
+> git ls-files --stage -- node_modules/semantic-ui-css/
+> git show :components/footer.js
+> git show :components/Page.js
+> git show :components/navBar.js
+> git show :node_modules/semantic-ui-css/semantic.css
+> git ls-files --stage -- node_modules/semantic-ui-css/
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/Page.js
+> git show :components/footer.js
+> git show :components/Page.js
+> git show :components/navBar.js
+> git show :node_modules/semantic-ui-css/semantic.css
+> git ls-files --stage -- node_modules/semantic-ui-css/
+> git show :pages/aboutProfile.js
+> git show :pages/home.js
+> git show :components/bg.js
+> git show :components/navBar.js
+> git show :components/Page.js
+> git show :components/bg.js
+> git show :components/navBar.js
+> git show :components/footer.js
+> git show :components/bg.js
+> git show :components/header.js
+> git show :pages/home.js
+> git show :pages/home.js
+> git show :pages/contact.js
+> git show :pages/home.js
+> git show :components/header.js
+> git show :components/sideBar.js
+> git show :components/sideBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :components/navBar.js
+> git show :pages/contact.js
+> git show :components/navBar.js
+> git show :components/sideBar.js
+> git show :pages/index.js
+> git show :components/sideBar.js

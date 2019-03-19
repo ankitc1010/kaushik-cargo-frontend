@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Icon, IconGroup } from 'semantic-ui-react';
+import { relative } from 'path';
 
 class Footer extends Component {
     state = {}
@@ -9,11 +10,12 @@ class Footer extends Component {
                     <Grid columns={3} divided stackable className="stickDown">
                         <Grid.Column>
                             <p style={{ fontSize: 20 }}> GET IN TOUCH</p>
-                            <Icon className="icon" name="facebook square"  size="big"></Icon>
-                            <Icon name="google" size="big"></Icon>
-                            <Icon name="linkedin square" size="big"></Icon>
-                            <Icon name="youtube square" size="big"></Icon>
-
+                            <div className='rel'>
+                            <Icon  name="facebook square" size="big" inverted color='blue'/>
+                            <Icon name="google" size="big" inverted color='red'/>
+                            <Icon name="linkedin square" size="big" inverted color='blue'/>
+                            <Icon name="youtube square" size="big" inverted color='red'/>
+                            </div>
                         </Grid.Column>
                         <Grid.Column>
                             <p style={{ fontSize: 20 }}>GROUP COMPANIES</p>
@@ -41,8 +43,10 @@ class Footer extends Component {
                     width: 100%;
                     height: 15%;
                 }
-                .icon{
-                    margin-left:100px;
+                .rel{
+                    position:relative;
+                    display:inline-block;
+                    left:33%;
                 }
                 
                 `

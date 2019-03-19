@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import styled, { ThemeProvider, createGlobalStyle } from "styled-components";
 import Header from "./head";
 import Meta from "./head";
+import Nav from "./nav";
 
 const theme = {
   primary: "#065481",

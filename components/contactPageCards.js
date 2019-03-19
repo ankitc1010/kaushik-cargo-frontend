@@ -11,7 +11,8 @@ class ContactCards extends Component {
 
                 <Grid.Column computer={15} tablet={16} mobile={16}>
                         <Card fluid>
-                            <Card.Content header='Company Pvt Limited' />
+                            
+                            <Card.Content> <Icon name="user circle" color='blue' size='huge'></Icon><h1>Company Private Limited</h1></Card.Content>
                             <Card.Content description={'Johny Smith is a violinist with 2 years experience in the wedding industry. She enjoys the outdoors and currently resides in upstate New York.'} />
                             <Card.Content extra>
                                 <Icon name='phone' flipped='horizontally' />

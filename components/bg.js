@@ -8,10 +8,10 @@ class bg extends Component {
             <div className="bgDiv">
                 <img src="https://png.pngtree.com/thumb_back/fw800/back_pic/04/55/00/875863a90a7de9d.jpg" className="mybg">
                 </img>
-                <div className="banner">
-                <h1 className="bannerDesign" style={{fontSize:60}}>GROW YOUR BUSINESS</h1>
+                <div className="banner" >
+                <h1 className="bannerDesign" >GROW YOUR BUSINESS</h1>
                 
-                <h1 className="bannerDesign" style={{fontSize:40}}>We are the best choice.
+                <h1 className="bannerDesign2" >We are the best choice.
                     </h1>
 
                     <ul>
@@ -35,7 +35,7 @@ class bg extends Component {
 
                 }
                 li{
-                    font-size: 25px;
+                    font-size: 160%;
                     margin: 15px;
                     color:black;
                 }
@@ -44,14 +44,24 @@ class bg extends Component {
                     top:5px;
                 }
                 .bannerDesign{
+                    font-size:300%;
                     color:black;
-                    margin 35px 60px;
+                    margin 35px 45px;
+                   
+                }
+                .bannerDesign2{
+                    font-size:250%;
+                    color:black;
+                    margin 35px 45px;
+                    
                 }
                 .mybg{
                     width: 100%;
                     height: 550px;
 
                 }
+
+                
                 `
                     }</style>
             </div>

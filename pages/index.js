@@ -14,6 +14,7 @@ import {
 } from "semantic-ui-react";
 
 import Head from "../components/head";
+import Nav from "../components/nav";
 
 import SignUp from "../components/common/SignUp";
 import SignIn from "../components/common/SignIn";
